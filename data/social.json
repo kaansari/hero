@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/zerostaticio",
+        "image": "social/twitter.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://twitter.com/zerostaticio",
+        "image": "social/instagram.svg"
+    },
+    {
+        "name": "facebook",
+        "link": "https://twitter.com/zerostaticio",
+        "image": "social/facebook.svg"
+    }
+]
