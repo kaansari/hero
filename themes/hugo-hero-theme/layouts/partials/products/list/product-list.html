@@ -1,10 +1,6 @@
 
-<article class="container-fluid">
-    <div class="row">
-        <div class="col-12">
-            {{ partial "products/common/site-main-nav.html" . }} 
-        </div>
-    </div>
+<article class="container-fluid margin-top-offset">
+   
     <div class="row">
         {{ range .Data.Pages }} 
             {{ partial "products/list/product-list-item.html" . }} 
@@ -13,4 +9,9 @@
     <script>
     var productVariants = null;
     </script>
+     <div class="row">
+        <div class="col-12">
+            {{ partial "products/common/site-main-nav.html" . }} 
+        </div>
+    </div>
 </article>

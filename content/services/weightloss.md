@@ -12,13 +12,13 @@ heroBackground: 'services/service1.jpg'
 
 *Our program is designed to provide comprehensive support and guidance to individuals seeking to achieve their weight loss goals in a safe and sustainable manner. Here are the key details about our services*
 
-### 1. Expert Physician Guidance: 
+## 1. Expert Physician Guidance: 
 Our program is led by experienced and qualified physicians who specialize in weight loss management. They will assess each client's unique needs, medical history, and weight loss objectives to develop a personalized plan.
 
-### 2. Customized Treatment Plans:
+## 2. Customized Treatment Plans:
 We understand that everyone's weight loss journey is different. Our physicians will create tailored treatment plans that incorporate a combination of medical interventions, lifestyle modifications, dietary recommendations, and exercise routines.
 
-### 3. Medical Assessments:
+## 3. Medical Assessments:
 Prior to initiating the weight loss program, our physicians will conduct comprehensive medical assessments to ensure that clients are in good health and identify any underlying medical conditions that may affect their weight loss progress.
 
 4. Nutritional Counseling: Our weight loss management program includes personalized nutritional counseling. Our physicians will work closely with clients to develop a balanced and healthy eating plan that promotes weight loss while ensuring proper nutrition and meeting individual dietary preferences.

@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Your Med Spa Business",
+  "name": "SLIM SPA",
   "description": "We offer a range of services at our med spa to help you look and feel your best.",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "123 Main Street",
-    "addressLocality": "City",
-    "addressRegion": "State",
-    "postalCode": "12345",
-    "addressCountry": "Country"
+    "streetAddress": "231 S State St",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60604",
+    "addressCountry": "USA"
   },
-  "telephone": "+1-123-456-7890",
+  "telephone": "+1-312-285-2209",
   "openingHoursSpecification": [
     {
       "@type": "OpeningHoursSpecification",
@@ -34,5 +34,5 @@
       "closes": "16:00"
     }
   ],
-  "url": "https://www.example.com"
+  "url": "https://www.slim-spa.com"
 }
